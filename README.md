@@ -1,5 +1,6 @@
-# cits1003
-## UWA Introduction to Cybersecurity 
+# CITS1003 Introduction to Cybersecurity 
+
+### 12 Week Unit run at The University of Western Australia
 
 ### Content
 
@@ -14,3 +15,8 @@ Students are able to (1) describe the concepts of cybersecurity and information 
 ### Assessment
 
 There are 10 practical lab assignments which can be found here https://introlabs.cybermnemosyne.xyz 
+
+
+### License Terms
+
+Copyright © David Glance 2021. Except where otherwise specified, the text in this course is licensed under the Creative Commons Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
