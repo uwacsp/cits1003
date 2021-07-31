@@ -8,6 +8,12 @@ This unit introduces students to the fundamental concepts of cybersecurity. Star
 
 The unit will cover areas as defined in the Cyber Security Book of Knowledge (CyBoK) as recommended by the Australian Computer Society (ACS). These areas include: (1) Human, Organisational and Human, Organisational and Regulatory Aspects; (2) Attacks and Defences; (3) Security; (4) Software Platform Security; and (5) Infrastructure Security.
 
+### Lectures
+
+### Videos
+
+Introduction 1-1 [https://www.youtube.com/watch?v=7GQP-wEeRA8](https://www.youtube.com/watch?v=7GQP-wEeRA8)
+
 ### Outcomes
     
 Students are able to (1) describe the concepts of cybersecurity and information security as made up by the different domains of knowledge in the unit outline; (2) specify the role of cybersecurity risk management in an overall strategy of providing information security by applying mitigations in the different cybersecurity domains; and (3) define the legal and ethical responsibilities of a cybersecurity professional.
