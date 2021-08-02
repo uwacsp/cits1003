@@ -26,6 +26,8 @@ Cryptography 2-1 [https://www.youtube.com/watch?v=5OmHsIO-_yo](https://www.youtu
 
 Cryptography 2-2 [https://www.youtube.com/watch?v=OR29ooH2u5g](https://www.youtube.com/watch?v=OR29ooH2u5g)
 
+Cryptography 2-3 [https://www.youtube.com/watch?v=uHskdclxh_o](https://www.youtube.com/watch?v=uHskdclxh_o)
+
 ### Outcomes
     
 Students are able to (1) describe the concepts of cybersecurity and information security as made up by the different domains of knowledge in the unit outline; (2) specify the role of cybersecurity risk management in an overall strategy of providing information security by applying mitigations in the different cybersecurity domains; and (3) define the legal and ethical responsibilities of a cybersecurity professional.
