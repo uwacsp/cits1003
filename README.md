@@ -31,6 +31,7 @@ Cryptography 2-3 [https://www.youtube.com/watch?v=uHskdclxh_o](https://www.youtu
 #### Computers and Networks
 
 Computers and Networks 4-1 [https://www.youtube.com/watch?v=OI1DQCml_jE](https://www.youtube.com/watch?v=OI1DQCml_jE)
+
 Computers and Networks 4-2 [https://www.youtube.com/watch?v=aS5TKA2QrFM](https://www.youtube.com/watch?v=aS5TKA2QrFM)
 
 ### Outcomes
