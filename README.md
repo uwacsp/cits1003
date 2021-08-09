@@ -38,6 +38,8 @@ Computers and Networks 4-2 [https://www.youtube.com/watch?v=aS5TKA2QrFM](https:/
 
 Threats 5-1 [https://www.youtube.com/watch?v=7Px70_ycYEc](https://www.youtube.com/watch?v=7Px70_ycYEc)
 
+Threats 5-2 [https://www.youtube.com/watch?v=Td1iYh89KWA](https://www.youtube.com/watch?v=Td1iYh89KWA)
+
 ### Outcomes
     
 Students are able to (1) describe the concepts of cybersecurity and information security as made up by the different domains of knowledge in the unit outline; (2) specify the role of cybersecurity risk management in an overall strategy of providing information security by applying mitigations in the different cybersecurity domains; and (3) define the legal and ethical responsibilities of a cybersecurity professional.
