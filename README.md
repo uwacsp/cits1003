@@ -40,13 +40,19 @@ Threats 5-1 [https://www.youtube.com/watch?v=7Px70_ycYEc](https://www.youtube.co
 
 Threats 5-2 [https://www.youtube.com/watch?v=Td1iYh89KWA](https://www.youtube.com/watch?v=Td1iYh89KWA)
 
+#### Vulnerabilities
+
+Vulnerabilities 6-1 [https://www.youtube.com/watch?v=yd6xNIjRU6U](https://www.youtube.com/watch?v=yd6xNIjRU6U)
+
 ### Outcomes
     
 Students are able to (1) describe the concepts of cybersecurity and information security as made up by the different domains of knowledge in the unit outline; (2) specify the role of cybersecurity risk management in an overall strategy of providing information security by applying mitigations in the different cybersecurity domains; and (3) define the legal and ethical responsibilities of a cybersecurity professional.
 
 ### Assessment
 
-There are 10 practical lab assignments which can be found here https://introlabs.cybermnemosyne.xyz 
+There are 10 practical lab assignments which can be found here https://introlabs.cybermnemosyne.xyz that is worth 25% of the unit marks
+There will be a project worth 25% of unit marks that will be released on, or prior to, week 6
+There will be a final exam worth 50% of unit marks
 
 
 ### License Terms
