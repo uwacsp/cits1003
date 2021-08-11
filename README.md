@@ -43,7 +43,9 @@ Threats 5-2 [https://www.youtube.com/watch?v=Td1iYh89KWA](https://www.youtube.co
 #### Vulnerabilities
 
 Vulnerabilities 6-1 [https://www.youtube.com/watch?v=yd6xNIjRU6U](https://www.youtube.com/watch?v=yd6xNIjRU6U)
+
 Vulnerabilities 6-2 [https://www.youtube.com/watch?v=89KQ6xMfMZc](https://www.youtube.com/watch?v=89KQ6xMfMZc)
+
 Vulnerabilities 6-3 [https://www.youtube.com/watch?v=BtN8LprPPRg](https://www.youtube.com/watch?v=BtN8LprPPRg)
 
 ### Outcomes
