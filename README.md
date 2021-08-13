@@ -48,6 +48,11 @@ Vulnerabilities 6-2 [https://www.youtube.com/watch?v=89KQ6xMfMZc](https://www.yo
 
 Vulnerabilities 6-3 [https://www.youtube.com/watch?v=BtN8LprPPRg](https://www.youtube.com/watch?v=BtN8LprPPRg)
 
+#### Security Management
+
+Security Management 7-1 [https://www.youtube.com/watch?v=ntX5x9HmAcM](https://www.youtube.com/watch?v=ntX5x9HmAcM)
+Security Management 7-2 
+
 ### Outcomes
     
 Students are able to (1) describe the concepts of cybersecurity and information security as made up by the different domains of knowledge in the unit outline; (2) specify the role of cybersecurity risk management in an overall strategy of providing information security by applying mitigations in the different cybersecurity domains; and (3) define the legal and ethical responsibilities of a cybersecurity professional.
