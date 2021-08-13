@@ -51,7 +51,8 @@ Vulnerabilities 6-3 [https://www.youtube.com/watch?v=BtN8LprPPRg](https://www.yo
 #### Security Management
 
 Security Management 7-1 [https://www.youtube.com/watch?v=ntX5x9HmAcM](https://www.youtube.com/watch?v=ntX5x9HmAcM)
-Security Management 7-2 
+
+Security Management 7-2 [https://www.youtube.com/watch?v=rKki7sROUWc](https://www.youtube.com/watch?v=rKki7sROUWc)
 
 ### Outcomes
     
