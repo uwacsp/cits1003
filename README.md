@@ -54,6 +54,12 @@ Security Management 7-1 [https://www.youtube.com/watch?v=ntX5x9HmAcM](https://ww
 
 Security Management 7-2 [https://www.youtube.com/watch?v=rKki7sROUWc](https://www.youtube.com/watch?v=rKki7sROUWc)
 
+#### Incidents
+
+Incidents 8-1 [https://www.youtube.com/watch?v=cWY1iSz70Og](https://www.youtube.com/watch?v=cWY1iSz70Og)
+
+
+
 ### Outcomes
     
 Students are able to (1) describe the concepts of cybersecurity and information security as made up by the different domains of knowledge in the unit outline; (2) specify the role of cybersecurity risk management in an overall strategy of providing information security by applying mitigations in the different cybersecurity domains; and (3) define the legal and ethical responsibilities of a cybersecurity professional.
