@@ -58,6 +58,14 @@ Security Management 7-2 [https://www.youtube.com/watch?v=rKki7sROUWc](https://ww
 
 Incidents 8-1 [https://www.youtube.com/watch?v=cWY1iSz70Og](https://www.youtube.com/watch?v=cWY1iSz70Og)
 
+Incidents 8-2 [https://www.youtube.com/watch?v=g3N2jmzPiOg](https://www.youtube.com/watch?v=g3N2jmzPiOg)
+
+#### Digital Forensics
+
+Digital Forensics 9-1 [https://www.youtube.com/watch?v=GNgQ6HZ4XB0](https://www.youtube.com/watch?v=GNgQ6HZ4XB0)
+
+Digital Forensics 9-2 [https://www.youtube.com/watch?v=oxxNtQsYi5Y](https://www.youtube.com/watch?v=oxxNtQsYi5Y)
+
 
 
 ### Outcomes
