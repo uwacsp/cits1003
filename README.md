@@ -66,6 +66,8 @@ Digital Forensics 9-1 [https://www.youtube.com/watch?v=GNgQ6HZ4XB0](https://www.
 
 Digital Forensics 9-2 [https://www.youtube.com/watch?v=oxxNtQsYi5Y](https://www.youtube.com/watch?v=oxxNtQsYi5Y)
 
+Digital Forensics 9-3 [https://www.youtube.com/watch?v=VXFnYKhiSDI](https://www.youtube.com/watch?v=VXFnYKhiSDI)
+
 
 
 ### Outcomes
