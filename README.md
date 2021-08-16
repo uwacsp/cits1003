@@ -68,6 +68,12 @@ Digital Forensics 9-2 [https://www.youtube.com/watch?v=oxxNtQsYi5Y](https://www.
 
 Digital Forensics 9-3 [https://www.youtube.com/watch?v=VXFnYKhiSDI](https://www.youtube.com/watch?v=VXFnYKhiSDI)
 
+#### Critical Infrastructure and Cyberphysical Systems
+
+CI & CPS 10-1 [https://www.youtube.com/watch?v=aFPUehQ3Gm0](https://www.youtube.com/watch?v=aFPUehQ3Gm0)
+
+CI & CPS 10-2 [https://www.youtube.com/watch?v=MmbG2f8Jk8E](https://www.youtube.com/watch?v=MmbG2f8Jk8E)
+
 
 
 ### Outcomes
