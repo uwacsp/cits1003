@@ -74,6 +74,11 @@ CI & CPS 10-1 [https://www.youtube.com/watch?v=aFPUehQ3Gm0](https://www.youtube.
 
 CI & CPS 10-2 [https://www.youtube.com/watch?v=MmbG2f8Jk8E](https://www.youtube.com/watch?v=MmbG2f8Jk8E)
 
+#### Cyberlaw
+
+Cyberlaw 11-1 [https://www.youtube.com/watch?v=VRpRdWWNjZc](https://www.youtube.com/watch?v=VRpRdWWNjZc)
+Cyberlaw 11-2 
+
 
 
 ### Outcomes
