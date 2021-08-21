@@ -81,6 +81,14 @@ Cyberlaw 11-1 [https://www.youtube.com/watch?v=VRpRdWWNjZc](https://www.youtube.
 Cyberlaw 11-2 [https://www.youtube.com/watch?v=oW4pd5n13rA](https://www.youtube.com/watch?v=oW4pd5n13rA)
 
 
+### Labs
+
+#### Intro To Docker and Bash
+
+Docker and Bash [https://www.youtube.com/watch?v=4vl4aUxo8Hk](https://www.youtube.com/watch?v=4vl4aUxo8Hk)
+
+
+
 
 ### Outcomes
     
