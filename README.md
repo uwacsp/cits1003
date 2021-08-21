@@ -85,7 +85,11 @@ Cyberlaw 11-2 [https://www.youtube.com/watch?v=oW4pd5n13rA](https://www.youtube.
 
 #### Intro To Docker and Bash
 
-Docker and Bash [https://www.youtube.com/watch?v=4vl4aUxo8Hk](https://www.youtube.com/watch?v=4vl4aUxo8Hk)
+Docker and Bash 1-1 [https://www.youtube.com/watch?v=4vl4aUxo8Hk](https://www.youtube.com/watch?v=4vl4aUxo8Hk)
+
+Computer Architecture: Users, files, processes 3-1 [https://www.youtube.com/watch?v=qdEr98Lqak0](https://www.youtube.com/watch?v=qdEr98Lqak0)
+
+Networks 4-1 [https://www.youtube.com/watch?v=Tq6cKMcNavw](https://www.youtube.com/watch?v=Tq6cKMcNavw)
 
 
 
