@@ -89,6 +89,8 @@ Cyberlaw 11-2 [https://www.youtube.com/watch?v=oW4pd5n13rA](https://www.youtube.
 
 **Networks 4-1** [https://www.youtube.com/watch?v=Tq6cKMcNavw](https://www.youtube.com/watch?v=Tq6cKMcNavw)
 
+**Social Engineering 5-1** [https://www.youtube.com/watch?v=JJ4teHYInDg](https://www.youtube.com/watch?v=JJ4teHYInDg)
+
 
 
 
