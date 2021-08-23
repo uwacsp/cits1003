@@ -91,6 +91,8 @@ Cyberlaw 11-2 [https://www.youtube.com/watch?v=oW4pd5n13rA](https://www.youtube.
 
 **Social Engineering 5-1** [https://www.youtube.com/watch?v=JJ4teHYInDg](https://www.youtube.com/watch?v=JJ4teHYInDg)
 
+**Vulnerabilities 6-1** [https://www.youtube.com/watch?v=UgY3n4xplR4](https://www.youtube.com/watch?v=UgY3n4xplR4)
+
 
 
 
