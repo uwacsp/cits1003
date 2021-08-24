@@ -95,6 +95,8 @@ Cyberlaw 11-2 [https://www.youtube.com/watch?v=oW4pd5n13rA](https://www.youtube.
 
 **Incidents 7-1** [https://www.youtube.com/watch?v=SiGKMrr-qdY](https://www.youtube.com/watch?v=SiGKMrr-qdY)
 
+**Forensics 8-1** [https://youtu.be/XIca2lxn-7w](https://youtu.be/XIca2lxn-7w)
+
 
 
 
