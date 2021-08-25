@@ -97,6 +97,10 @@ Cyberlaw 11-2 [https://www.youtube.com/watch?v=oW4pd5n13rA](https://www.youtube.
 
 **Forensics 8-1** [https://youtu.be/XIca2lxn-7w](https://youtu.be/XIca2lxn-7w)
 
+**IoT & CPS 9-1**
+
+**AI 10-1** [https://www.youtube.com/watch?v=6LhD8jUO1aY](https://www.youtube.com/watch?v=6LhD8jUO1aY)
+
 
 
 
